@@ -13,18 +13,15 @@ This is a Python implementation of the classic "Rock, Paper, Scissors" game. Pla
 
 ---
 
-## How to Play 🎮
-1.Enter your move:
-  -Rock: Press r
-  -Paper: Press p
-  -Scissors: Press s
-2.The computer will randomly select its move.
-3.The winner is determined based on the following rules:
-  -Rock beats Scissors.
-  -Scissors beat Paper.
-  -Paper beats Rock.
-  -Same moves result in a draw.
-4.After each round, you can choose to play again or exit the game.
+##Screenshots 📸
+Game Start
+![image](https://github.com/user-attachments/assets/8c62a352-91ef-4631-bf8d-4830d2fe28ef)
+
+Round Result
+![image](https://github.com/user-attachments/assets/b79fbb0c-7a0f-465c-9298-491bf4e92c18)
+
+Game Over
+![image](https://github.com/user-attachments/assets/72b96366-998e-4326-bcfc-aa3fcccfc797)
 
 ---
 
