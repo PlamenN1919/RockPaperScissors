@@ -15,12 +15,18 @@ This is a Python implementation of the classic "Rock, Paper, Scissors" game. Pla
 
 ##Screenshots 📸
 Game Start
+
+
 ![image](https://github.com/user-attachments/assets/8c62a352-91ef-4631-bf8d-4830d2fe28ef)
 
 Round Result
+
+
 ![image](https://github.com/user-attachments/assets/b79fbb0c-7a0f-465c-9298-491bf4e92c18)
 
 Game Over
+
+
 ![image](https://github.com/user-attachments/assets/72b96366-998e-4326-bcfc-aa3fcccfc797)
 
 ---
